@@ -1,3 +1,3 @@
 module.exports = {
-    mongoURI: 'mongodb+srv://rawan:rawan123@mern-cluster.vdlle.mongodb.net/MemoriesApp?retryWrites=true&w=majority'
+    mongoURI: 'mongodb+srv://rawan:********@mern-cluster.vdlle.mongodb.net/MemoriesApp?retryWrites=true&w=majority'
 }
